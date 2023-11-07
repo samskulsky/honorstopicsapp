@@ -22,11 +22,4 @@ To ensure the game is engaging and addictive, the following strategies are emplo
 **Scalability and Expansion:**
 The Harvard-Westlake Trivia Challenge is designed with scalability in mind. The framework can be easily adapted to include broader trivia topics, allowing for inter-school competitions. The addition of customizable avatars and trivia rooms can accommodate an expanding user base, while the infrastructure supports increased server loads during peak participation times.
 
-**Accessibility and Inclusivity:**
-In line with the California non-discrimination clause, the application is developed to be accessible and inclusive. It features:
-- Text-to-speech options for visually impaired users.
-- Subtitles for auditory information for the hearing impaired.
-- A colorblind mode ensuring visual content is clear for all users.
-- Language settings to support students for whom English is a second language.
-
 With these elements, the Harvard-Westlake Trivia Challenge stands as a testament to the school's commitment to inclusivity, intellectual growth, and community engagement.
